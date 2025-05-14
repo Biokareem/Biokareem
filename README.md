@@ -23,7 +23,6 @@ I am an undergraduate Biomedical Engineer with a passion for data science and ma
 ## 📫 How to Reach Me
 
 - Email: [Kareem.abdelaziz62@gmail.com](mailto:Kareem.abdelaziz62@gmail.com)  
-- Kaggle: [https://www.kaggle.com/biokemo](https://www.kaggle.com/biokemo)  
 
 ---
 
