@@ -1,12 +1,12 @@
 # Hi, I'm Kareem Abdelaziz! 👋
 
-**Biomedical Engineer | Data Scientist | ML Engineer**
+**Biomedical Engineer | Data Scientist | ML Engineer | Mathematics Teaching Assistant**
 
 ---
 
 ## About Me
 
-I am an undergraduate Biomedical Engineer with a passion for data science and machine learning. I enjoy tackling challenging problems through data-driven solutions and building innovative projects that combine healthcare and AI.
+I am an undergraduate Biomedical Engineer with a passion for data science and machine learning. I enjoy tackling challenging problems through data-driven solutions and building innovative projects that combine healthcare and AI. Currently, I also work as a Mathematics Teaching Assistant, helping students strengthen their understanding of key mathematical concepts.
 
 ---
 
@@ -23,6 +23,7 @@ I am an undergraduate Biomedical Engineer with a passion for data science and ma
 ## 📫 How to Reach Me
 
 - Email: [Kareem.abdelaziz62@gmail.com](mailto:Kareem.abdelaziz62@gmail.com)  
+- Kaggle: [https://www.kaggle.com/biokemo](https://www.kaggle.com/biokemo)  
 
 ---
 
